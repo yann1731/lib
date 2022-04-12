@@ -71,7 +71,7 @@ static char *read_line(char *s, size_t *ptr, char *buffer)
 char    *get_next_line(int fd)
 {
 	static char		*str;
-	char		*buf;
+	char			*buf;
 	static size_t	index;
 	static size_t	index2;
 	int				res;
@@ -90,7 +90,7 @@ char    *get_next_line(int fd)
 			free(str);
 			return (NULL);
 		}
-		str = ft_strjoin(str, buf);
+		str = ft_strjoinfree(str, buf);
 		buf = re_alloc('\0', (BUFFER_SIZE + 1), buf);
 	}
 	return (buf = read_line(str, &index, buf));
