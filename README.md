@@ -29,5 +29,5 @@ Compile with a main to use the functions.
 
 ## Authors
 
-Yannick St-laurent
+Yannick St-laurent\
 yan_1731@hotmail.com
