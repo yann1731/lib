@@ -9,7 +9,7 @@
 /*   Updated: 2022/05/07 10:49:30 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 
 void	printhex(t_flags format, unsigned int nbr, char *base, int *res)
 {

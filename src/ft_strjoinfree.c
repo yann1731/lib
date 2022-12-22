@@ -9,7 +9,7 @@
 /*   Updated: 2022/04/12 10:31:32 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 
 static int	total_str_len(char const *s1, char const *s2)
 {

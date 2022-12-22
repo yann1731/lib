@@ -9,7 +9,7 @@
 /*   Updated: 2022/05/07 10:52:08 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 
 void	printnumberthree(t_flags format, int n, int *res)
 {

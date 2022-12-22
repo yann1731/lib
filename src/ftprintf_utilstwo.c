@@ -9,7 +9,7 @@
 /*   Updated: 2022/05/07 10:48:55 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 
 int	dotfield(const char *s)
 {

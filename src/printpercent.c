@@ -9,7 +9,7 @@
 /*   Updated: 2022/05/07 10:50:04 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 
 void	printpercent(t_flags format, int *res)
 {

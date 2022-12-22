@@ -9,7 +9,7 @@
 /*   Updated: 2022/05/07 10:46:44 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 
 int	validateflag(int c)
 {

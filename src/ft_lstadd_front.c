@@ -9,7 +9,7 @@
 /*   Updated: 2022/01/28 16:55:09 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 
 void	ft_lstadd_front(t_list **lst, t_list *new)
 {

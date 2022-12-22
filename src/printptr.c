@@ -9,7 +9,7 @@
 /*   Updated: 2022/05/07 10:50:28 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 
 static char	*posnumbase(unsigned long long n, char *str)
 {

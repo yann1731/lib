@@ -9,7 +9,7 @@
 /*   Updated: 2022/05/07 10:49:12 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 
 static char	*re_alloc(int c, size_t len, char *tofree)
 {

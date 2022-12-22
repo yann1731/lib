@@ -9,7 +9,7 @@
 /*   Updated: 2021/09/24 10:28:38 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 
 int	ft_isdigit(int c)
 {

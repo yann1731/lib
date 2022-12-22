@@ -9,7 +9,7 @@
 /*   Updated: 2021/10/08 14:26:49 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 
 int	ft_atoi(const char *str)
 {

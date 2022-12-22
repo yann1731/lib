@@ -9,7 +9,7 @@
 /*   Updated: 2021/09/24 10:32:07 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 #include <stdlib.h>
 
 static char	*memall(char const *s)

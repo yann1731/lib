@@ -9,7 +9,7 @@
 /*   Updated: 2022/05/07 10:52:20 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 
 void	ft_putstr_bonus(t_flags format, char *s, int *res)
 {

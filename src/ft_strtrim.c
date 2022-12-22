@@ -9,7 +9,7 @@
 /*   Updated: 2021/09/24 10:33:48 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 #include <stdlib.h>
 
 static int	ft_isinset(char const *set, char c)

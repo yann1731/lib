@@ -9,7 +9,7 @@
 /*   Updated: 2021/09/24 10:30:51 by yst-laur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "libft.h"
+#include "../include/libft.h"
 #include <stdlib.h>
 
 static char	**memerr(char **str)
