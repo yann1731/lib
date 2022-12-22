@@ -9,7 +9,11 @@ SRCS =		ft_atoi.c ft_bzero.c ft_calloc.c ft_isalnum.c ft_isalpha.c ft_isascii.c 
 			putnbr.c putnbrbase.c putnbrthree.c putnbrtwo.c putstr.c get_next_line.c ft_strnstrint.c \
 			ft_strchrint.c ft_strjoinfree.c
 
-OBJS =		${SRCS:.c=.o}
+SRC_PATH =	src/
+
+PRE_OBJS =	${addprefix ${SRC_PATH}, ${SRCS}}
+
+OBJS =		${PRE_OBJS:.c=.o}
 
 CC =		gcc
 
