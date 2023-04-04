@@ -13,7 +13,9 @@ ft_putendl_fd, ft_putnbr_fd, ft_putstr_fd, ft_split, ft_splitset, ft_strchr, ft_
 ft_striteri, ft_strjoin, ft_strjoinfree, ft_strlcat,  ft_strlcpy, ft_strlen, ft_strmapi, ft_strncmp
 ft_strnstr, ft_strnstrint, ft_strrchr, ft_strtrim, ft_substr, ft_tolower, ft_toupper, get_next_line
 
-The bonus functions are: ft_lstadd_back, ft_lstadd_front, ft_lstclear, ft_lstdelone, ft_lstiter, ft_lstlast, ft_lstmap, ft_lstnew, ft_lstsize 
+The bonus functions are: ft_lstadd_back, ft_lstadd_front, ft_lstclear, ft_lstdelone, ft_lstiter, ft_lstlast, ft_lstmap, ft_lstnew, ft_lstsize
+
+It also contains my own recoding of printf as well as the getnextline function.
 
 ## Getting Started
 
